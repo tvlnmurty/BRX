@@ -1,0 +1,77 @@
+KT Plan?
+
+QA maximum download - IS that Seema or any other Main resource ***********************
+
+
+Environments access???
+
+
+1. Access to environments
+2. Application KT----Specific to QE
+
+
+3. Testing process
+4. Overview on CI/CD process
+5. Overview on Automation and tools if any
+   1.Jenkins
+   2.SauceLabs
+6. Automation framework
+7. Test Management Tool/Test Cases
+8. Performance Test scripts if any
+9.Any other specific to BE
+
+
+
+Which Team????
+Next meeting ***********
+
+
+QE--Whole system
+
+
+
+
+
+
+
+team ---All teams
+
+
+
+
+
+team structure
+
+BEX value Story for all modules
+
+End-to-end process
+
+QA process
+Terminology
+Roles and Responsibility
+
+Userstory life cycle in BEX
+Bug tracking
+Best pracrices
+SEcurity
+Case management
+
+
+Application
+
+Tools using
+Automation
+Documents
+
+
+
+
+ 
+
+
+
+
+
+
+
+
